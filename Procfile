@@ -1,1 +1,1 @@
-web: node backend/ibdex.js
+web: node backend/index.js
